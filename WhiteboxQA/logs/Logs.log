@@ -1,0 +1,133 @@
+[INFO ] 2021-10-25 13:56:32.803 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-10-25 13:56:39.769 [main] BasePage - launching url
+[INFO ] 2021-10-25 13:56:42.867 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-10-25 13:56:42.875 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 13:56:42.877 [main] HomePage - verifying the title
+[INFO ] 2021-10-25 13:56:42.892 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-10-25 13:56:44.520 [main] BasePage - launching url
+[INFO ] 2021-10-25 13:56:48.100 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-10-25 13:56:48.104 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 13:56:48.110 [main] HomePage - verifying the logo
+[INFO ] 2021-10-25 13:56:48.218 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-10-25 13:56:49.993 [main] BasePage - launching url
+[INFO ] 2021-10-25 13:56:53.456 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-10-25 13:56:53.457 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 13:56:53.458 [main] HomePage - clicking on login button
+[INFO ] 2021-10-25 13:56:54.130 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 14:01:47.283 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-10-25 14:01:52.878 [main] BasePage - launching url
+[INFO ] 2021-10-25 14:01:55.971 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 14:01:55.979 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-10-25 14:01:55.979 [main] HomePage - clicking on login button
+[INFO ] 2021-10-25 14:01:56.626 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 14:01:59.354 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-10-25 14:02:00.843 [main] BasePage - launching url
+[INFO ] 2021-10-25 14:02:04.369 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 14:02:04.370 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-10-25 14:02:04.370 [main] HomePage - clicking on login button
+[INFO ] 2021-10-25 14:02:05.022 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 14:02:05.023 [main] LoginPage - Sending the credentials to Login
+[INFO ] 2021-10-25 14:02:05.501 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-10-25 14:02:07.285 [main] BasePage - launching url
+[INFO ] 2021-10-25 14:02:11.260 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 14:02:11.261 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-10-25 14:02:11.261 [main] HomePage - clicking on login button
+[INFO ] 2021-10-25 14:02:12.016 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 14:02:12.017 [main] LoginPage - Sending the credentials to Login
+[INFO ] 2021-10-25 14:02:12.526 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-10-25 14:02:14.274 [main] BasePage - launching url
+[INFO ] 2021-10-25 14:02:17.674 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 14:02:17.675 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-10-25 14:02:17.675 [main] HomePage - clicking on login button
+[INFO ] 2021-10-25 14:02:18.479 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 14:02:18.479 [main] LoginPage - Sending the credentials to Login
+[INFO ] 2021-10-25 14:02:18.979 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-10-25 14:02:22.188 [main] BasePage - launching url
+[INFO ] 2021-10-25 14:02:26.843 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 14:02:26.844 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-10-25 14:02:26.844 [main] HomePage - clicking on login button
+[INFO ] 2021-10-25 14:02:27.556 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 14:02:27.557 [main] LoginPage - Sending the credentials to Login
+[INFO ] 2021-10-25 14:02:28.035 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-10-25 14:02:30.380 [main] BasePage - launching url
+[INFO ] 2021-10-25 14:02:34.841 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 14:02:34.842 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-10-25 14:02:34.842 [main] HomePage - clicking on login button
+[INFO ] 2021-10-25 14:02:35.699 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 14:02:35.700 [main] LoginPage - verifying the Login Page logo
+[INFO ] 2021-10-25 14:02:35.796 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-10-25 14:02:38.216 [main] BasePage - launching url
+[INFO ] 2021-10-25 14:02:42.897 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 14:02:42.898 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-10-25 14:02:42.899 [main] HomePage - clicking on login button
+[INFO ] 2021-10-25 14:02:43.839 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 14:02:43.840 [main] LoginPage - verifying the Login page  title
+[INFO ] 2021-10-25 14:02:43.863 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-10-25 14:02:47.760 [main] BasePage - launching url
+[INFO ] 2021-10-25 14:02:56.203 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-10-25 14:02:56.204 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-10-25 14:02:56.204 [main] HomePage - clicking on login button
+[INFO ] 2021-10-25 14:02:57.350 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:00.944 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-11-24 14:29:04.941 [main] BasePage - launching url
+[INFO ] 2021-11-24 14:29:07.660 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:07.660 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-11-24 14:29:07.660 [main] HomePage - clicking on login button
+[INFO ] 2021-11-24 14:29:08.241 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:08.241 [main] LoginPage - verifying the Login page  title
+[INFO ] 2021-11-24 14:29:08.251 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-11-24 14:29:09.650 [main] BasePage - launching url
+[INFO ] 2021-11-24 14:29:12.520 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:12.520 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-11-24 14:29:12.520 [main] HomePage - clicking on login button
+[INFO ] 2021-11-24 14:29:13.161 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:13.161 [main] LoginPage - verifying the Login Page logo
+[INFO ] 2021-11-24 14:29:13.218 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-11-24 14:29:15.160 [main] BasePage - launching url
+[INFO ] 2021-11-24 14:29:17.631 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:17.631 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-11-24 14:29:17.631 [main] HomePage - clicking on login button
+[INFO ] 2021-11-24 14:29:18.211 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:18.251 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-11-24 14:29:19.633 [main] BasePage - launching url
+[INFO ] 2021-11-24 14:29:23.031 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:23.031 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-11-24 14:29:23.031 [main] HomePage - clicking on login button
+[INFO ] 2021-11-24 14:29:23.886 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:24.728 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-11-24 14:29:26.141 [main] BasePage - launching url
+[INFO ] 2021-11-24 14:29:29.626 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:29.626 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-11-24 14:29:29.626 [main] HomePage - clicking on login button
+[INFO ] 2021-11-24 14:29:30.151 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:30.151 [main] LoginPage - Sending the credentials to Login
+[INFO ] 2021-11-24 14:29:30.471 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-11-24 14:29:31.841 [main] BasePage - launching url
+[INFO ] 2021-11-24 14:29:34.752 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:34.756 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-11-24 14:29:34.756 [main] HomePage - clicking on login button
+[INFO ] 2021-11-24 14:29:35.271 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:35.271 [main] LoginPage - Sending the credentials to Login
+[INFO ] 2021-11-24 14:29:35.580 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-11-24 14:29:36.971 [main] BasePage - launching url
+[INFO ] 2021-11-24 14:29:39.591 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:39.591 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-11-24 14:29:39.591 [main] HomePage - clicking on login button
+[INFO ] 2021-11-24 14:29:40.118 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:40.118 [main] LoginPage - Sending the credentials to Login
+[INFO ] 2021-11-24 14:29:40.391 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-11-24 14:29:42.011 [main] BasePage - launching url
+[INFO ] 2021-11-24 14:29:44.941 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:44.941 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-11-24 14:29:44.941 [main] HomePage - clicking on login button
+[INFO ] 2021-11-24 14:29:45.501 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:45.501 [main] LoginPage - Sending the credentials to Login
+[INFO ] 2021-11-24 14:29:45.801 [main] BasePage - Getting the data from conig file
+[INFO ] 2021-11-24 14:29:47.371 [main] BasePage - launching url
+[INFO ] 2021-11-24 14:29:50.561 [main] HomePage - Initialized the Home page WebElements
+[INFO ] 2021-11-24 14:29:50.561 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:50.570 [main] RegisterPage - Initialized the  Register page WebElements
+[INFO ] 2021-11-24 14:29:50.570 [main] HomePage - clicking on login button
+[INFO ] 2021-11-24 14:29:51.081 [main] LoginPage - Initialized the Login page WebElements
+[INFO ] 2021-11-24 14:29:51.081 [main] LoginPage - clicking on Registration button
+[INFO ] 2021-11-24 14:29:51.761 [main] RegisterPage - verifying the Register logo
